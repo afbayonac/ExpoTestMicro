@@ -1,0 +1,7 @@
+ExpoTest.code-workspace
+ExpoTestPIO/.vscode/*
+ExpoTestPIO/pio
+ExpoTestPIO/data/*
+ExpoTestWEB/node_modules
+ExpoTestWEB/paskage-log-json
+
